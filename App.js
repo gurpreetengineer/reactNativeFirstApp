@@ -32,7 +32,7 @@ export default function App() {
   return (
     
     <View style={styles.container}>
-        <Image source={selectedImage ? {uri: selectedImage.localUri} : logo} style={styles.soloImage} />
+        <Image source={selectedImage ? {uri: se lectedImage.localUri} : logo} style={styles.soloImage} />
         <Text style={styles.instructions}>
           Open up App.js to start working on your app!
         </Text>
